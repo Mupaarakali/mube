@@ -1,4 +1,4 @@
-                               - 👋 Hi,WELOCME I’m @Mupaarak ali 
+                                           👋 Hi,WELOCME I’m @Mupaarak ali 
                                    "THE ROOT OF EDUCATION ARE BITTER,BUT THE FRUITS ARE SWEET"
 
 <!---
