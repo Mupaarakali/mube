@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Mupaarak ali
-- 👀 I’m interested in coding ...
-- 🌱 I’m currently learning it...
-- 💞️ DO what you love to do
-- 📫 never give up 
+- 👋 Hi, I’m @Mupaarak ali 
 
 <!---
 Mupaarakali/Mupaarakali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
