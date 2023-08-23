@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mupaarak ali 
+                               - 👋 Hi, I’m @Mupaarak ali 
 
 <!---
 Mupaarakali/Mupaarakali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
